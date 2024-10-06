@@ -6,9 +6,7 @@ public class primitives {
         System.out.println("please enter the input");
         int rollno =input.nextInt();
         System.out.println("your rollno is"+rollno);
-        float marks  =input.nextInt();
-        System.out.println("your marks is :"+marks);
-        
+       
 
 
         
